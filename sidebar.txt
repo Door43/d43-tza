@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tza:home|Door43 (tza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tza|d43-tza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tza/archive/master.zip|d43-tza.zip]]
+
+**Recent Changes**
+{{changes>ns = tza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tza|Ethnologue data]]
+
